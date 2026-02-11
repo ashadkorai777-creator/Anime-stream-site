@@ -1,0 +1,16 @@
+/
+├── index.html          # Home page
+├── browse.html         # Browse page (lists all anime with filters)
+├── details.html        # Anime details page
+├── watch.html          # Video player page
+├── profile.html        # Profile settings page
+├── watchlist.html      # Watchlist page
+├── 404.html            # Custom 404 page
+├── css/
+│   └── style.css       # All styles
+├── js/
+│   ├── script.js       # Main JavaScript logic
+│   └── data.js         # Dummy anime data
+└── assets/
+    ├── images/         # Placeholder images (e.g., naruto.jpg, one_piece.jpg, etc.)
+    └── videos/         # Placeholder videos (e.g., naruto_ep1.mp4, one_piece_ep1.mp4, etc.)
